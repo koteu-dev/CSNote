@@ -1,2 +1,2 @@
 # CSNote
-A Note Taking app made in MAUI
+A Simple Note Taking app
